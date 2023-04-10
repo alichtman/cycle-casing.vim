@@ -12,6 +12,6 @@ The code is originally from: https://vim.fandom.com/wiki/Switching_case_of_chara
 
 ## Installation
 
-```toml
+```bash
 Plug 'alichtman/cycle-casing.vim'
 ```
